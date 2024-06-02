@@ -59,7 +59,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Screeshot
+## Screenshot
 [streamlit-app-2024-06-02-16-06-20.webm](https://github.com/figo2001/Student-Academic-project/assets/78696850/4bfd66b0-0cf5-4c19-86d0-4745ba457f74)
 
 
